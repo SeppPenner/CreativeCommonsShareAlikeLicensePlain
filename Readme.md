@@ -8,10 +8,10 @@
 
 The licenses can be found here: https://creativecommons.org/2011/04/15/plaintext-versions-of-creative-commons-licenses-and-cc0/
 
-The English version of the license is here: [https://creativecommons.org/licenses/by-sa/3.0/legalcode.txt](plain text) and
-[https://creativecommons.org/licenses/by-sa/3.0/legalcode](web version).
+The English version of the license is here: [plain text](https://creativecommons.org/licenses/by-sa/3.0/legalcode.txt) and
+[web version](https://creativecommons.org/licenses/by-sa/3.0/legalcode).
 
-The English version of the license is here: [https://creativecommons.org/licenses/by-sa/3.0/legalcode.de](web version)
+The English version of the license is here: [web version](https://creativecommons.org/licenses/by-sa/3.0/legalcode.de)
 
 Both licenses can be found here in the folder.
 
